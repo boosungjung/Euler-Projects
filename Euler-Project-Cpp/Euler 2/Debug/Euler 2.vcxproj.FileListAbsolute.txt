@@ -1,0 +1,2 @@
+D:\Euler problems\Euler 2\Debug\Euler 2.exe
+D:\Euler problems\Euler 2\Debug\Euler 2.pdb

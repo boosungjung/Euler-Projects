@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Euler problems\Euler 3\Source.cpp(6,23): warning C4305: 'initializing': truncation from '__int64' to 'int'
+D:\Euler problems\Euler 3\Source.cpp(6,11): warning C4309: 'initializing': truncation of constant value
+  Euler 3.vcxproj -> D:\Euler problems\Euler 3\Debug\Euler 3.exe
