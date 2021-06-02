@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-using namespace std;;
+using namespace std;
 int num = 13195;
 int total = 0;
 
